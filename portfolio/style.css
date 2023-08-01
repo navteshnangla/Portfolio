@@ -67,7 +67,7 @@ section {
   min-height: 100vh;
   /* width: 100vw; */
   padding: 9rem 9% 2rem;
-  border: 1px solid green;
+  /* border: 1px solid green; */
 }
 .home {
   display: flex;
